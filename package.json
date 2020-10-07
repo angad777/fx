@@ -44,6 +44,6 @@
   "devDependencies": {
     "ava": "^0.25.0",
     "pkg": "^4.3.4",
-    "release-it": "^8.2.0"
+    "release-it": "^14.0.4"
   }
 }
